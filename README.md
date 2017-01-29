@@ -8,12 +8,12 @@ Listar os plugins instalados, digite no prompt:
         
       $ cordova plugins ls
 
-cordova-plugin-compat 1.1.0 "Compat"
-cordova-plugin-device 1.1.4 "Device"
-cordova-plugin-dialogs 1.3.1 "Notification"
-cordova-plugin-splashscreen 4.0.1 "Splashscreen"
-cordova-plugin-whitelist 1.3.1 "Whitelist"
-phonegap-plugin-barcodescanner 6.0.5 "BarcodeScanner"
+cordova-plugin-compat 1.1.0 "Compat"<br>
+cordova-plugin-device 1.1.4 "Device"<br>
+cordova-plugin-dialogs 1.3.1 "Notification"<br>
+cordova-plugin-splashscreen 4.0.1 "Splashscreen"<br>
+cordova-plugin-whitelist 1.3.1 "Whitelist"<br>
+phonegap-plugin-barcodescanner 6.0.5 "BarcodeScanner"<br>
 
 ## Browser
 
