@@ -15,14 +15,19 @@ cordova-plugin-splashscreen 4.0.1 "Splashscreen"
 cordova-plugin-whitelist 1.3.1 "Whitelist"
 phonegap-plugin-barcodescanner 6.0.5 "BarcodeScanner"
 
+## Browser
 
-## Emulação
-
-Para testar o Leitor no Emulador ou no Browser, digite no prompt:
+Para testar o Leitor no Browser, digite no prompt:
     
     $ cordova run browser
 
-O browser abrirá um imput com o comando de resposta do plugin QRCode, use o JSON para cada formato suportado pelo plugin:
+O browser abrirá um imput de resposta do plugin QRCode, nesse caso digite o que seria o conteudo do QRCode:
+        
+    exemplo: uma url, número ou um texto qualquer.
+
+## Emulação
+
+O Emulador abrirá um imput, que seria a resposta do plugin QRCode, use o JSON para cada formato suportado pelo plugin:
 
 ### QR_Code
 
@@ -33,3 +38,11 @@ O browser abrirá um imput com o comando de resposta do plugin QRCode, use o JSO
 {"text":"0123456789","format":"CODE_128","cancelled":false}
 
 Para mais formatos, consulte a documentação do plugin: https://github.com/phonegap/phonegap-plugin-barcodescanner
+
+## Devise
+
+Para gerar o APK para Android use o comando:
+        
+    $ cordova buil android
+
+Para gerar o QRCode para testes no aparelho use esse site: http://br.qr-code-generator.com/
