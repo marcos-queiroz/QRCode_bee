@@ -1,3 +1,3 @@
 # QRCode_bee
 
-Um Simples APP para leitura de QRCode.
+Um Simples APP Cordova para leitura de QRCode.
