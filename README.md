@@ -26,18 +26,10 @@ O browser abrirá um imput com o comando de resposta do plugin QRCode, use o JSO
 
 ### QR_Code
 
-{
-  "text": "Teste do leitor QRCode bee", 
-  "format": "QR_CODE", 
-  "cancelled": "false"
-}
+{"text":"Teste QRCode","format":"QR_CODE","cancelled":false}
 
 ### CODE_128
 
-{
-  "text": "1234567890", 
-  "format": "CODE_128", 
-  "cancelled": "false"
-}
+{"text":"0123456789","format":"CODE_128","cancelled":false}
 
 Para mais formatos, consulte a documentação do plugin: https://github.com/phonegap/phonegap-plugin-barcodescanner
