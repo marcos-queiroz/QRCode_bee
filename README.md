@@ -5,7 +5,7 @@ Um Simples APP Cordova para leitura de QRCode.
 ## Plugins
 
 Listar os plugins instalados, digite no prompt: 
-  $ cordova plugins ls
+* $ cordova plugins ls
 
 cordova-plugin-compat 1.1.0 "Compat"
 cordova-plugin-device 1.1.4 "Device"
@@ -18,7 +18,7 @@ phonegap-plugin-barcodescanner 6.0.5 "BarcodeScanner"
 ## Emulação
 
 Para testar o Leitor no Emulador ou no Browser, digite no prompt:
-  $ cordova run browser
+* $ cordova run browser
 
 O browser abrirá um imput com o comando de resposta do plugin QRCode, use o JSON para cada formato suportado pelo plugin:
 
