@@ -40,4 +40,4 @@ O browser abrirá um imput com o comando de resposta do plugin QRCode, use o JSO
   "cancelled": "false"
 }
 
-Para mais formatos, consulte a documentação do plugin: https://www.npmjs.com/package/phonegap-plugin-barcodescanner
+Para mais formatos, consulte a documentação do plugin: https://github.com/phonegap/phonegap-plugin-barcodescanner
