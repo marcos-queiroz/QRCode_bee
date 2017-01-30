@@ -46,3 +46,7 @@ Para gerar o APK para Android use o comando:
     $ cordova buil android
 
 Para gerar o QRCode para testes no aparelho use esse site: http://br.qr-code-generator.com/
+
+# Google Play Store
+
+O APP foi publicado no google play: https://play.google.com/store/apps/details?id=br.com.beecoffee.qrcodebee&hl=pt_BR
